@@ -57,6 +57,7 @@ const copyButtonEl = document.querySelector("#copy");
 copyButtonEl.addEventListener("click", copy);
 
 const regenerateButtonEl = document.querySelector("#regenerate");
-regenerateButtonEl.addEventListener("click", generatepassword);
+regenerateButtonEl.addEventListener("click", generatepassword); //.
 
 generatepassword();
+
