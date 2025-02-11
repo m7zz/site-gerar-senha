@@ -127,11 +127,11 @@ footer{
 }
 
 ::-webkit-scrollbar-track {
-  background: #0000003d;  /* Cor do trilho */
+  background: #b6b6b63d;  /* Cor do trilho */
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #000000;  /* Cor do botão de rolagem */
+  background: #a8a8a8;  /* Cor do botão de rolagem */
   border-radius: 10px;  /* Arredondar os cantos */
 }
 
