@@ -106,7 +106,6 @@ label {
 
 .scroll-area {
   height: 100px;
-  overflow-y: scroll;
   background: #1c313a;
   border-radius: 8px;
   padding: 1rem;
