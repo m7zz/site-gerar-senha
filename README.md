@@ -21,8 +21,6 @@ Personalize o comprimento da senha conforme sua necessidade.
 HTML5: Estruturação da página.
 CSS3: Estilização da interface.
 JavaScript: Lógica para gerar senhas aleatórias.
-📷 Screenshots
-Adicione algumas imagens ou capturas de tela da sua aplicação aqui!
 
 ⚡ Contribuições
 Sinta-se à vontade para contribuir com melhorias e sugestões. Basta fazer um fork do repositório, enviar um pull request e suas alterações serão avaliadas.
